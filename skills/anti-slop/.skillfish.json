@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "anti-slop",
+  "owner": "rand",
+  "repo": "cc-polymath",
+  "path": "skills/anti-slop",
+  "branch": "main",
+  "sha": "aeca4afa97a9ede49f6a7a5276c37836b20dbfb6",
+  "source": "manual"
+}
